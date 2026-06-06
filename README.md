@@ -42,7 +42,7 @@ Wix Harmony Editor
   - Learning how to structure a full website project.
   - Organizing layout and spacing for a clean UI.
 
-    ## Lessons learned
+    ## Lessons Learned
     - Learned how to build a complete brand identity.
     - Improve UI/UX design skills.
     - Gain experience in responsive design.
