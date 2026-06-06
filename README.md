@@ -10,7 +10,7 @@
 Wix Harmony Editor
 
 
-## Features Implementd
+## Features Implemented
 - Elegent homepage design.
 - Product shoecase section with categories.
 - About Us page describing the brand identity.
@@ -20,3 +20,9 @@ Wix Harmony Editor
 - Responsive layout for mobile and desktop.
 - High-quality skincare brand visuals and custom branding elements.
 - Smooth navigation between pages.
+
+  ##Screenshots
+
+  ### Home page
+  ![Home page](screenshots/homepage.png)
+  
