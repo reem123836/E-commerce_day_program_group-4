@@ -25,7 +25,14 @@ Wix Harmony Editor
 
   ### Home page
   ![Home page](screenshots/HomePage.png)
+
+    ### Contact Us page
+  ![Contact Us page](screenshots/contactus.png)
+  
     ### Product page
-  ![Home page](screenshots/ProductPage.png)
+  ![Product page](screenshots/ProductPage.png)
+ 
+   ### Cartpage
+  ![Cart page](screenshots/cart.png)
   
   
