@@ -47,6 +47,8 @@ Wix Harmony Editor
     - Improve UI/UX design skills.
     - Gain experience in responsive design.
     - Understood how branding affects users experience.
-      ## live website link
+      ## Live website link
       [Click here to view the live website](https://reemosamasalih.wixsite.com/velora)
+       ## GitHub Repository link
+      [Click here to view  GitHub repository]()
       
