@@ -21,7 +21,7 @@ Wix Harmony Editor
 - High-quality skincare brand visuals and custom branding elements.
 - Smooth navigation between pages.
 
-  ##Screenshots
+  ## Screenshots
 
   ### Home page
   ![Home page](screenshots/HomePage.png)
