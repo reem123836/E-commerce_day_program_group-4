@@ -50,5 +50,5 @@ Wix Harmony Editor
       ## Live website link
       [Click here to view the live website](https://reemosamasalih.wixsite.com/velora)
        ## GitHub Repository link
-      [Click here to view  GitHub repository]()
+      [Click here to view  GitHub repository](https://github.com/reem123836/E-commerce_day_program_group-4_24144-2024)
       
