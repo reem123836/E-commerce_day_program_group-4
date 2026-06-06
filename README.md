@@ -32,7 +32,7 @@ Wix Harmony Editor
     ### Product page
   ![Product page](screenshots/ProductPage.png)
  
-   ### Cartpage
+   ### Cart page
   ![Cart page](screenshots/cart.png)
   
   
