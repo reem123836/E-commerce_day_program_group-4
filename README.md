@@ -25,4 +25,7 @@ Wix Harmony Editor
 
   ### Home page
   ![Home page](screenshots/homepage.png)
+    ### Product page
+  ![Home page](screenshots/ProductPage.png)
+  
   
