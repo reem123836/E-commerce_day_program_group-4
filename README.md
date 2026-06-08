@@ -1,10 +1,12 @@
 # E-commerce_day_program_group-4
  ![Logo](screenshots/unilak.png)
-## Student Information
+## Students Information
 - Student 1:
   Malaz Mohammed Ibrahim   24579/2024
-  - Student 2:
+- Student 2:
   Reem Osama Ali  24144/2024
+- Student 3:
+  Mohammed Ali Mohamed 24611/2024
 
 - Course: E-commerce and Web Applicaion
 # **Velora Luxury Skincare Brand Website**
