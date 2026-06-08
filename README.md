@@ -8,7 +8,7 @@
 - Student 3:
   Mohammed Ali Mohamed 24611/2024
 
-- Course: E-commerce and Web Applicaion
+### Course: E-commerce and Web Applicaion
 # **Velora Luxury Skincare Brand Website**
 ### Platform used :
 
